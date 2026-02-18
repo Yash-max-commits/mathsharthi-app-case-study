@@ -60,7 +60,7 @@
 
 | | | |
 |---|---|---|
-| ![Chat](./screenshots/AfterLogin.jpeg) | ![Camera](./screenshots/camera.png) | ![Tutor](./screenshots/AiTutor.jpeg) |
+| ![Chat](./screenshots/AfterLogin.jpeg) | ![Camera](./screenshots/CameraUI.png) | ![Tutor](./screenshots/AiTutor.jpeg) |
 | AI Chat Interface | Camera Capture & Crop | AI Tutor (Voice) |
 | ![Plans](./screenshots/SubscriptionPlan.jpeg) | ![Landing](./screenshots/Landing.jpeg) | ![Drawer](./screenshots/Drawer.jpeg) |
 | Subscription Plans | Landing Page | Animated Drawer |
